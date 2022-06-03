@@ -1,0 +1,4 @@
+[URL01]: https://github.com/18120211/https://github.com/iabdelrhmaneyad/Give-your-Application-Auto-Deploy-Superpowers
+[URL02]:http://udapeople-1a1043b.s3.us-west-2.amazonaws.com/index.html#/employees
+[URL03]:http://d3absxkapauljk.cloudfront.net	
+[URL04]:ec2-18-236-218-35.us-west-2.compute.amazonaws.com
